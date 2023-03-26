@@ -20,7 +20,6 @@ body {
         "date note"
         "date note";
     width: 80%;
-    height:80vh;
     min-width: 470px;
 
 }
@@ -69,8 +68,7 @@ body {
     font: 1rem Georgia, "Times New Roman", Times, serif;
     font-weight: 1200;
     color: #533c08;
-    color:#f7e0a4
-    border-radius: 30px;
+    border-radius:30px;
 
 }
 
